@@ -1,0 +1,20 @@
+[
+    {
+        "id": "combo-01",
+        "titulo": "COMBO MATERO 1",
+        "precio": 56000,
+        "img": "./img/Combo1.webp"
+    },
+    {
+        "id": "combo-02",
+        "titulo": "COMBO MATERO 2",
+        "precio": 59000,
+        "img": "./img/Combo2.webp"
+    },
+    {
+        "id": "combo-03",
+        "titulo": "COMBO MATERO 3",
+        "precio": 65000,
+        "img": "./img/Combo3.webp"
+    }
+]
